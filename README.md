@@ -1,4 +1,4 @@
-<h2>🐦‍⬛ 박소연(Soyeon Park)</h2>
+<h2><img src="quokka.png" width="40"/> 박소연(Soyeon Park)</h2>
 
 AI 서비스를 풀스택으로 개발하는 박소연입니다. <br/>
 AI로 사용자 경험에 실질적인 가치를 더하는 서비스를 개발합니다.
